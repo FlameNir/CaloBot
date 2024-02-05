@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Language: ru\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "This is a debug message"
+msgstr "Это отладочное сообщение"
+
+msgid "This is an info message"
+msgstr "Это информационное сообщение"
+
+msgid "This is a warning message"
+msgstr "Это предупреждение"
+
+msgid "This is an error message"
+msgstr "Это сообщение об ошибке"
+
+msgid "This is a critical message"
+msgstr "Это критическое сообщение"

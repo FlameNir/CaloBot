@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "disable_existing_loggers": false,
+  "formatters": {
+    "colored": {
+      "()": "colorlog.ColoredFormatter",
+      "format": "%(log_color)s%(asctime)s - %(message)s%(reset)s",
+      "datefmt": "%H:%M:%S",
+      "log_colors": {
+        "DEBUG": "cyan",
+        "INFO": "white",
+        "WARNING": "yellow",
+        "ERROR": "red",
+        "CRITICAL": "black,bg_red"
+      }
+    }
+  },
+  "handlers": {
+    "console": {
+      "class": "logging.StreamHandler",
+      "formatter": "colored"
+    }
+  },
+  "root": {
+    "handlers": ["console"],
+    "level": "DEBUG"
+  },
+  "i18n": {
+    "locale_dir": "locales",
+    "text_domain": "my_logs"
+  }
+}
