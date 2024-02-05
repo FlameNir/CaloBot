@@ -1,0 +1,21 @@
+MAIN:
+    main : 45, 500
+    profile : 29, 28
+    legions : 827, 214
+    search : 42, 426
+    middle : 481, 265
+    gather : 656, 371
+    create_legion : 761, 113
+    march : 800, 472
+GOLD:
+    gold_mine : 321, 427
+    lvl1_gold_mine : 251, 335
+    search_gold_mine : 322, 394
+WOOD:
+    wood_mine : 478, 489
+    lvl1_wood_mine : 407, 333
+    search_wood_mine : 479, 394
+STONE:
+    stone_mine : 638, 489
+    lvl1_stone_mine : 568, 333
+    search_stone_mine : 640, 393

@@ -1,0 +1,51 @@
+MAIN:
+    main : 45, 500
+    menu : 926, 497
+    heroes : 870, 504
+    profile : 29, 28
+    legions : 827, 214
+    search : 42, 426
+    middle : 481, 265
+    gather : 656, 371
+    create_legion : 761, 113
+    march : 800, 472
+    confirm : 478, 338
+    game : 402, 152
+TRASH:
+    hand : 734, 452
+    path_of_the_dragon_button : 676, 503
+    path_of_the_dragon : 317, 231
+    dragon_exp : 909, 472
+    dragon_out : 18, 25
+    get_xp : 479, 391
+    chat : 225, 506
+    out_chat : 526, 269
+    art : 202, 91
+    talents : 732, 458
+    skills : 874, 458
+    hero1 : 35, 126
+    hero2 : 109, 127
+    hero3 : 43, 214
+    hero4 : 120, 217
+    hero5 : 46, 303
+    hero6 : 120, 305
+    hero7 : 41, 372
+    hero8 : 114, 393
+BUILDING:
+    treatment_build : 459, 160
+    treatment_enter : 541, 192
+    heal_legions : 684, 503
+FAKE:
+    tasks : 37, 103
+GOLD:
+    mine : 321, 487
+    lvl1_mine : 251, 335
+    search_mine : 322, 394
+WOOD:
+    mine : 478, 489
+    lvl1_mine : 407, 333
+    search_mine : 479, 394
+STONE:
+    mine : 638, 489
+    lvl1_mine : 568, 333
+    search_mine : 640, 393
